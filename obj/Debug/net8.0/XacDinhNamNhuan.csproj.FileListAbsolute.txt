@@ -1,0 +1,14 @@
+C:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\BaiTapCodeGym\XacDinhNamNhuan\bin\Debug\net8.0\XacDinhNamNhuan.exe
+C:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\BaiTapCodeGym\XacDinhNamNhuan\bin\Debug\net8.0\XacDinhNamNhuan.deps.json
+C:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\BaiTapCodeGym\XacDinhNamNhuan\bin\Debug\net8.0\XacDinhNamNhuan.runtimeconfig.json
+C:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\BaiTapCodeGym\XacDinhNamNhuan\bin\Debug\net8.0\XacDinhNamNhuan.dll
+C:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\BaiTapCodeGym\XacDinhNamNhuan\bin\Debug\net8.0\XacDinhNamNhuan.pdb
+C:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\BaiTapCodeGym\XacDinhNamNhuan\obj\Debug\net8.0\XacDinhNamNhuan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\BaiTapCodeGym\XacDinhNamNhuan\obj\Debug\net8.0\XacDinhNamNhuan.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\BaiTapCodeGym\XacDinhNamNhuan\obj\Debug\net8.0\XacDinhNamNhuan.AssemblyInfo.cs
+C:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\BaiTapCodeGym\XacDinhNamNhuan\obj\Debug\net8.0\XacDinhNamNhuan.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\BaiTapCodeGym\XacDinhNamNhuan\obj\Debug\net8.0\XacDinhNamNhuan.dll
+C:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\BaiTapCodeGym\XacDinhNamNhuan\obj\Debug\net8.0\refint\XacDinhNamNhuan.dll
+C:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\BaiTapCodeGym\XacDinhNamNhuan\obj\Debug\net8.0\XacDinhNamNhuan.pdb
+C:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\BaiTapCodeGym\XacDinhNamNhuan\obj\Debug\net8.0\XacDinhNamNhuan.genruntimeconfig.cache
+C:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\BaiTapCodeGym\XacDinhNamNhuan\obj\Debug\net8.0\ref\XacDinhNamNhuan.dll
